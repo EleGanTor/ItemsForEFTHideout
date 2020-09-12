@@ -1,0 +1,7 @@
+CREATE TABLE Hideout(
+    ModuleID INTEGER PRIMARY KEY AUTOINCREMENT,
+    ModuleName TEXT,
+    level INT,
+    itemName INT NOT NULL,
+    ammount INT NOT NULL
+);

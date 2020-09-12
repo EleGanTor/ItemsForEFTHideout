@@ -1,0 +1,133 @@
+ModuleName;level;itemName;ammount
+Air Filtering Unit;1;Dollar;10000
+Bitcoin Farm;1;CPU Fan;10
+Bitcoin Farm;1;Power supply unit;5
+Bitcoin Farm;1;Powercord;5
+Bitcoin Farm;1;Electric drill;1
+Bitcoin Farm;2;CPU Fan;15
+Bitcoin Farm;2;Power supply unit;5
+Bitcoin Farm;2;Printed circuit board;5
+Bitcoin Farm;2;Phase control relay;2
+Bitcoin Farm;3;CPU Fan;25
+Bitcoin Farm;3;Silicone tubes;10
+Bitcoin Farm;3;Electric motor;2
+Bitcoin Farm;3;Pressure gauges;4
+Booze generator;1;Silicone tubes;4
+Booze generator;1;Analog thermometers;2
+Booze generator;1;Pressure gauges;2
+Booze generator;1;Corrugated hose;5
+Generator;1;Rouble;100000
+Generator;2;Phase control relays;5
+Generator;2;Electric motor;1
+Generator;2;Wires;15
+Generator;3;Phase control relays;6
+Generator;3;Electric motor;2
+Generator;3;Spark plug;5
+Generator;3;Power supply unit;5
+Heating;1;Rouble;25000
+Heating;2;Rouble;50000
+Heating;3;Radiator helix;8
+Heating;3;Wires;8
+Illumination;1;Rouble;10000
+Illumination;2;Light bulb;
+Illumination;2;Wires;5
+Illumination;3;Rouble;50000
+Illumination;3;Capacitors;7
+Intelligence Center;1;Folder with intelligence;1
+Intelligence Center;2;Folder with intelligence;3
+Intelligence Center;2;Secure Flash drive;3
+Intelligence Center;2;Powercord;4
+Intelligence Center;2;Damaged hard drive;4
+Intelligence Center;3;Military COFDM wireless Signal Transmitters;2
+Intelligence Center;3;VPX Flash Storage Modules;2
+Intelligence Center;3;Gas analyzers;3
+Intelligence Center;3;Military cable;4
+Lavatory;1;Rouble;2000
+Lavatory;2;Corrugated hoses;3
+Lavatory;2;A pack of screws;5
+Lavatory;2;Electric drill;1
+Lavatory;3;Corrugated hoses;6
+Lavatory;3;Pressure gauges;2
+Lavatory;3;A set of tools;1
+Lavatory;3;Xenomorph sealing foam;3
+Library;1;Rouble;400000
+Medstation;1;Rouble;25000
+Medstation;2;Rouble;50000
+Medstation;2;Medical bloodset;2
+Medstation;2;Saline solution;3
+Medstation;3;Rouble;150000
+Medstation;3;Saline solution;4
+Medstation;3;LEDX Skin Transilluminator;1
+Medstation;3;Opthalmoscope;1
+Nutrition unit;1;Rouble;25000
+Nutrition unit;1;Phase control relay;2
+Nutrition unit;2;Wrench;4
+Nutrition unit;2;Corrugated hose;2
+Nutrition unit;2;Heat-exchange alkali surface washer;2
+Nutrition unit;2;Phase control relay;1
+Nutrition unit;3;Rouble;125000
+Nutrition unit;3;Coffee Majaica;3
+Nutrition unit;3;Sodium bicarbonate;3
+Rest Space;1;Rouble;10000
+Rest Space;2;Rouble;35000
+Rest Space;3;Dollar;3000
+Rest Space;3;Powercord;4
+Rest Space;3;Capacitors;5
+Rest Space;3;Wires;7
+Scav case;1;Bronze lion;4
+Scav case;1;Gold skull ring;6
+Scav case;1;Golden neck chain;8
+Scav case;1;Roler submariner gold wrist watch;4
+Security;1;Rouble;20000
+Security;2;Rouble;45000
+Security;3;Working LCD;2
+Security;3;Wires;4
+Security;3;NIXXOR lens;8
+Security;3;SSD drive;1
+Shooting range;1;A pack of nails;4
+Shooting range;1;Screw nut;5
+Shooting range;1;Bolts;5
+Shooting range;1;Duct tape;3
+Solar power;1;Euro;15000
+Solar power;1;Military cable;4
+Solar power;1;Phased array element;2
+Solar power;1;Military power filter;4
+Stash;1;Copy of EFT;1
+Stash;2;Rouble;3500000
+Stash;2;Hand drill;1
+Stash;2;A pack of screws;7
+Stash;2;WD-40 100ml.;4
+Stash;3;Rouble;8500000
+Stash;3;Electric drill;2
+Stash;3;A pack of screws;8
+Stash;4;Euro;150000
+Vents;1;Rouble;25000
+Vents;2;Electric motor;1
+Vents;2;Car battery;1
+Vents;3;Electric motor;4
+Vents;3;Wires;14
+Vents;3;Printed circuit board;5
+Vents;3;Car battery;4
+Water collector;1;Corrugated hose;4
+Water collector;1;Bolts;5
+Water collector;1;Screw nut;5
+Water collector;1;Duct tape;3
+Water collector;2;Corrugated hose;6
+Water collector;2;Electric motor;2
+Water collector;2;A set of tools;2
+Water collector;3;Rouble;125000
+Water collector;3;Pliers Elite;2
+Water collector;3;Shustrilo sealing foam;5
+Workbench;1;Screw nuts;2
+Workbench;1;Bolts;2
+Workbench;1;Leatherman Multitool;1
+Workbench;2;A set of tools;3
+Workbench;2;Electric drill;2
+Workbench;2;Bolts;6
+Workbench;3;Rouble;195000
+Workbench;3;Pliers Elite;2
+Workbench;3;FireKlean gun lube;1
+Christmas tree;1;Rouble;10000
+Christmas tree;1;Christmas tree decoration ball (red);1
+Christmas tree;1;Christmas tree decoration ball (silver);1
+Christmas tree;1;Christmas tree decoration ball (violet);1
